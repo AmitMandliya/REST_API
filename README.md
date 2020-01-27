@@ -1,2 +1,1 @@
-# REST_API
-Simple REST API using Flask in python
+Implementation of a simple RESTful API used to store users details, which will have CRUD (Create, Read, Update, Delete) functions, allowing us to create new user, get details of existing user, update details of existing user and delete existing user.
